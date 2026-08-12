@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "Bot_0001",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "Survival_SMP_1-5A7o.aternos.me",
     "port": 24310,
-    "version": "26.2",
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
